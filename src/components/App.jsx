@@ -1,4 +1,4 @@
-// import { Component } from 'react';
+import { Component } from 'react';
 import { Section } from 'components/Section';
 import { Notification } from 'components/Notification/Notification';
 import Statistics from 'components/Statistics';
